@@ -12,7 +12,7 @@ public class Tarea1_Semana08 {
         for (int i = 1; i <= N; i++) {
             suma += i;
         }        
-        //Mostrar los resultados
+        //Mostrar los resultados finales
         System.out.println("La suma de los primeros " + N + " numeros naturales es: " + suma);
     }    
 }
